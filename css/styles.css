@@ -1,0 +1,16 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+.navbar {
+    margin-bottom: 20px;
+}
+
+.jumbotron {
+    background-color: #343a40;
+    padding: 2rem 1rem;
+}
+
+.card {
+    border: 1px solid #007bff;
+}
